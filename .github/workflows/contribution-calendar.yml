@@ -1,0 +1,41 @@
+name: Contribution calendar
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # Asia/Shanghai 00:00
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-contributions.py"
+      - ".github/workflows/contribution-calendar.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-calendar
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render contribution calendar
+        env:
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: python scripts/generate-contributions.py --user "$PROFILE_LOGIN"
+      - name: Save updated figures
+        run: |
+          git add assets/contributions-3d-*.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update contribution calendar"
+          git push
