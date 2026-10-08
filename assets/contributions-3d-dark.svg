@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 480 220" role="img" aria-labelledby="calendar-title calendar-description">
 <title id="calendar-title">Haven-mao 的近半年三维贡献日历</title>
-<desc id="calendar-description">2026-04-05 至 2026-10-07，775 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
-<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-04-05&quot;, &quot;to&quot;: &quot;2026-10-07&quot;, &quot;days&quot;: 186, &quot;contributions&quot;: 775, &quot;active_days&quot;: 127, &quot;max_in_a_day&quot;: 27}</metadata>
+<desc id="calendar-description">2026-04-05 至 2026-10-08，775 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
+<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-04-05&quot;, &quot;to&quot;: &quot;2026-10-08&quot;, &quot;days&quot;: 187, &quot;contributions&quot;: 775, &quot;active_days&quot;: 127, &quot;max_in_a_day&quot;: 27}</metadata>
 <rect width="480" height="220" fill="#0d1117"/>
 <defs><filter id="left-shade"><feComponentTransfer><feFuncR type="linear" slope="0.6"/><feFuncG type="linear" slope="0.6"/><feFuncB type="linear" slope="0.6"/></feComponentTransfer></filter>
 <filter id="right-shade"><feComponentTransfer><feFuncR type="linear" slope="0.2"/><feFuncG type="linear" slope="0.2"/><feFuncB type="linear" slope="0.2"/></feComponentTransfer></filter></defs>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#f0f6fc">
 <text x="24" y="24" font-size="12" font-weight="600">Haven-mao</text>
-<text x="456" y="24" text-anchor="end" font-size="10" fill="#9198a1">2026-04-05 至 2026-10-07</text>
+<text x="456" y="24" text-anchor="end" font-size="10" fill="#9198a1">2026-04-05 至 2026-10-08</text>
 </g><g transform="translate(10 44) scale(4) translate(12 0)">
 <g transform="translate(0.00 0)">
 <g data-date="2026-04-05" data-count="0" transform="translate(-0.00 6.000)">
@@ -1174,6 +1174,12 @@
 </g>
 <g data-date="2026-10-07" data-count="0" transform="translate(-5.10 9.000)">
 <title>2026-10-07: 0 contributions</title>
+<path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
+<path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
+<path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
+</g>
+<g data-date="2026-10-08" data-count="0" transform="translate(-6.80 10.000)">
+<title>2026-10-08: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
 <path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
