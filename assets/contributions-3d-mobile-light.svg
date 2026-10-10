@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="540" viewBox="0 0 280 270" role="img" aria-labelledby="calendar-title calendar-description">
 <title id="calendar-title">Haven-mao 的近半年三维贡献日历</title>
-<desc id="calendar-description">2026-04-12 至 2026-10-09，771 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
-<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-04-12&quot;, &quot;to&quot;: &quot;2026-10-09&quot;, &quot;days&quot;: 181, &quot;contributions&quot;: 771, &quot;active_days&quot;: 124, &quot;max_in_a_day&quot;: 27}</metadata>
+<desc id="calendar-description">2026-04-12 至 2026-10-10，772 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
+<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-04-12&quot;, &quot;to&quot;: &quot;2026-10-10&quot;, &quot;days&quot;: 182, &quot;contributions&quot;: 772, &quot;active_days&quot;: 125, &quot;max_in_a_day&quot;: 27}</metadata>
 <rect width="280" height="270" fill="#ffffff"/>
 <defs><filter id="left-shade"><feComponentTransfer><feFuncR type="linear" slope="0.6"/><feFuncG type="linear" slope="0.6"/><feFuncB type="linear" slope="0.6"/></feComponentTransfer></filter>
 <filter id="right-shade"><feComponentTransfer><feFuncR type="linear" slope="0.2"/><feFuncG type="linear" slope="0.2"/><feFuncB type="linear" slope="0.2"/></feComponentTransfer></filter></defs>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#1f2328">
 <text x="16" y="20" font-size="14" font-weight="600">Haven-mao</text>
-<text x="16" y="40" font-size="12" fill="#59636e">2026-04-12 至 2026-10-09</text>
+<text x="16" y="40" font-size="12" fill="#59636e">2026-04-12 至 2026-10-10</text>
 </g><g transform="translate(18 62) scale(3.8) translate(12 0)">
 <g transform="translate(0.00 0)">
 <g data-date="2026-04-12" data-count="1" transform="translate(-0.00 5.778)">
@@ -1146,11 +1146,17 @@
 <path fill="#ebedf0" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
 <path fill="#ebedf0" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
+<g data-date="2026-10-10" data-count="1" transform="translate(-10.20 11.778)">
+<title>2026-10-10: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
+<path fill="#9be9a8" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.222 L0 1.222 Z"/>
+<path fill="#9be9a8" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.222 L1.7 2.222 Z"/>
+</g>
 </g>
 </g>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#1f2328">
-<text x="16" y="238" font-size="12"><tspan font-weight="600">771</tspan> 次贡献</text>
-<text x="105" y="238" font-size="12"><tspan font-weight="600">124</tspan> 活跃日</text>
+<text x="16" y="238" font-size="12"><tspan font-weight="600">772</tspan> 次贡献</text>
+<text x="105" y="238" font-size="12"><tspan font-weight="600">125</tspan> 活跃日</text>
 <text x="190" y="238" font-size="12"><tspan font-weight="600">27</tspan> 单日最高</text>
 <text x="16" y="264" font-size="11" fill="#59636e">柱高对应每日贡献数</text>
 <text x="170" y="264" font-size="11" fill="#59636e">少</text>
