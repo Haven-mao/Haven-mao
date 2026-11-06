@@ -1,59 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="540" viewBox="0 0 280 270" role="img" aria-labelledby="calendar-title calendar-description">
 <title id="calendar-title">Haven-mao 的近半年三维贡献日历</title>
-<desc id="calendar-description">2026-05-03 至 2026-11-05，1008 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
-<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-05-03&quot;, &quot;to&quot;: &quot;2026-11-05&quot;, &quot;days&quot;: 187, &quot;contributions&quot;: 1008, &quot;active_days&quot;: 133, &quot;max_in_a_day&quot;: 34}</metadata>
+<desc id="calendar-description">2026-05-10 至 2026-11-06，1016 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
+<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-05-10&quot;, &quot;to&quot;: &quot;2026-11-06&quot;, &quot;days&quot;: 181, &quot;contributions&quot;: 1016, &quot;active_days&quot;: 131, &quot;max_in_a_day&quot;: 34}</metadata>
 <rect width="280" height="270" fill="#0d1117"/>
 <defs><filter id="left-shade"><feComponentTransfer><feFuncR type="linear" slope="0.6"/><feFuncG type="linear" slope="0.6"/><feFuncB type="linear" slope="0.6"/></feComponentTransfer></filter>
 <filter id="right-shade"><feComponentTransfer><feFuncR type="linear" slope="0.2"/><feFuncG type="linear" slope="0.2"/><feFuncB type="linear" slope="0.2"/></feComponentTransfer></filter></defs>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#f0f6fc">
 <text x="16" y="20" font-size="14" font-weight="600">Haven-mao</text>
-<text x="16" y="40" font-size="12" fill="#9198a1">2026-05-03 至 2026-11-05</text>
+<text x="16" y="40" font-size="12" fill="#9198a1">2026-05-10 至 2026-11-06</text>
 </g><g transform="translate(18 62) scale(3.8) translate(12 0)">
 <g transform="translate(0.00 0)">
-<g data-date="2026-05-03" data-count="0" transform="translate(-0.00 6.000)">
-<title>2026-05-03: 0 contributions</title>
-<path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
-<path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
-</g>
-<g data-date="2026-05-04" data-count="0" transform="translate(-1.70 7.000)">
-<title>2026-05-04: 0 contributions</title>
-<path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
-<path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
-</g>
-<g data-date="2026-05-05" data-count="2" transform="translate(-3.40 7.647)">
-<title>2026-05-05: 2 contributions</title>
-<path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.353 L0 1.353 Z"/>
-<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.353 L1.7 2.353 Z"/>
-</g>
-<g data-date="2026-05-06" data-count="0" transform="translate(-5.10 9.000)">
-<title>2026-05-06: 0 contributions</title>
-<path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
-<path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
-</g>
-<g data-date="2026-05-07" data-count="1" transform="translate(-6.80 9.824)">
-<title>2026-05-07: 1 contributions</title>
-<path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.176 L0 1.176 Z"/>
-<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.176 L1.7 2.176 Z"/>
-</g>
-<g data-date="2026-05-08" data-count="1" transform="translate(-8.50 10.824)">
-<title>2026-05-08: 1 contributions</title>
-<path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.176 L0 1.176 Z"/>
-<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.176 L1.7 2.176 Z"/>
-</g>
-<g data-date="2026-05-09" data-count="0" transform="translate(-10.20 12.000)">
-<title>2026-05-09: 0 contributions</title>
-<path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
-<path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
-</g>
-</g>
-<g transform="translate(1.70 1)">
 <g data-date="2026-05-10" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-05-10: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -97,7 +53,7 @@
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
 </g>
-<g transform="translate(3.40 2)">
+<g transform="translate(1.70 1)">
 <g data-date="2026-05-17" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-05-17: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -141,7 +97,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.706 L1.7 2.706 Z"/>
 </g>
 </g>
-<g transform="translate(5.10 3)">
+<g transform="translate(3.40 2)">
 <g data-date="2026-05-24" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-05-24: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -185,7 +141,7 @@
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
 </g>
-<g transform="translate(6.80 4)">
+<g transform="translate(5.10 3)">
 <g data-date="2026-05-31" data-count="1" transform="translate(-0.00 5.824)">
 <title>2026-05-31: 1 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -229,7 +185,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.059 L1.7 3.059 Z"/>
 </g>
 </g>
-<g transform="translate(8.50 5)">
+<g transform="translate(6.80 4)">
 <g data-date="2026-06-07" data-count="2" transform="translate(-0.00 5.647)">
 <title>2026-06-07: 2 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -273,7 +229,7 @@
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
 </g>
-<g transform="translate(10.20 6)">
+<g transform="translate(8.50 5)">
 <g data-date="2026-06-14" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-06-14: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -317,7 +273,7 @@
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
 </g>
-<g transform="translate(11.90 7)">
+<g transform="translate(10.20 6)">
 <g data-date="2026-06-21" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-06-21: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -361,7 +317,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.176 L1.7 2.176 Z"/>
 </g>
 </g>
-<g transform="translate(13.60 8)">
+<g transform="translate(11.90 7)">
 <g data-date="2026-06-28" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-06-28: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -405,7 +361,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.059 L1.7 3.059 Z"/>
 </g>
 </g>
-<g transform="translate(15.30 9)">
+<g transform="translate(13.60 8)">
 <g data-date="2026-07-05" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-07-05: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -449,7 +405,7 @@
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 3.118 L1.7 4.118 Z"/>
 </g>
 </g>
-<g transform="translate(17.00 10)">
+<g transform="translate(15.30 9)">
 <g data-date="2026-07-12" data-count="6" transform="translate(-0.00 4.941)">
 <title>2026-07-12: 6 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -493,7 +449,7 @@
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
 </g>
-<g transform="translate(18.70 11)">
+<g transform="translate(17.00 10)">
 <g data-date="2026-07-19" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-07-19: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -537,7 +493,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.059 L1.7 3.059 Z"/>
 </g>
 </g>
-<g transform="translate(20.40 12)">
+<g transform="translate(18.70 11)">
 <g data-date="2026-07-26" data-count="2" transform="translate(-0.00 5.647)">
 <title>2026-07-26: 2 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -581,7 +537,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.059 L1.7 3.059 Z"/>
 </g>
 </g>
-<g transform="translate(22.10 13)">
+<g transform="translate(20.40 12)">
 <g data-date="2026-08-02" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-08-02: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -625,7 +581,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.706 L1.7 2.706 Z"/>
 </g>
 </g>
-<g transform="translate(23.80 14)">
+<g transform="translate(22.10 13)">
 <g data-date="2026-08-09" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-08-09: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -669,7 +625,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.412 L1.7 3.412 Z"/>
 </g>
 </g>
-<g transform="translate(25.50 15)">
+<g transform="translate(23.80 14)">
 <g data-date="2026-08-16" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-08-16: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -713,7 +669,7 @@
 <path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
 </g>
 </g>
-<g transform="translate(27.20 16)">
+<g transform="translate(25.50 15)">
 <g data-date="2026-08-23" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-08-23: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -757,7 +713,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.529 L1.7 2.529 Z"/>
 </g>
 </g>
-<g transform="translate(28.90 17)">
+<g transform="translate(27.20 16)">
 <g data-date="2026-08-30" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-08-30: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -801,7 +757,7 @@
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.941 L1.7 3.941 Z"/>
 </g>
 </g>
-<g transform="translate(30.60 18)">
+<g transform="translate(28.90 17)">
 <g data-date="2026-09-06" data-count="11" transform="translate(-0.00 4.059)">
 <title>2026-09-06: 11 contributions</title>
 <path fill="#006d32" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -845,7 +801,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.235 L1.7 3.235 Z"/>
 </g>
 </g>
-<g transform="translate(32.30 19)">
+<g transform="translate(30.60 18)">
 <g data-date="2026-09-13" data-count="3" transform="translate(-0.00 5.471)">
 <title>2026-09-13: 3 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -889,7 +845,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.353 L1.7 2.353 Z"/>
 </g>
 </g>
-<g transform="translate(34.00 20)">
+<g transform="translate(32.30 19)">
 <g data-date="2026-09-20" data-count="1" transform="translate(-0.00 5.824)">
 <title>2026-09-20: 1 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -933,7 +889,7 @@
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.941 L1.7 3.941 Z"/>
 </g>
 </g>
-<g transform="translate(35.70 21)">
+<g transform="translate(34.00 20)">
 <g data-date="2026-09-27" data-count="11" transform="translate(-0.00 4.059)">
 <title>2026-09-27: 11 contributions</title>
 <path fill="#006d32" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -977,7 +933,7 @@
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.941 L1.7 3.941 Z"/>
 </g>
 </g>
-<g transform="translate(37.40 22)">
+<g transform="translate(35.70 21)">
 <g data-date="2026-10-04" data-count="11" transform="translate(-0.00 4.059)">
 <title>2026-10-04: 11 contributions</title>
 <path fill="#006d32" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -1021,7 +977,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.353 L1.7 2.353 Z"/>
 </g>
 </g>
-<g transform="translate(39.10 23)">
+<g transform="translate(37.40 22)">
 <g data-date="2026-10-11" data-count="21" transform="translate(-0.00 2.294)">
 <title>2026-10-11: 21 contributions</title>
 <path fill="#26a641" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -1065,7 +1021,7 @@
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.941 L1.7 3.941 Z"/>
 </g>
 </g>
-<g transform="translate(40.80 24)">
+<g transform="translate(39.10 23)">
 <g data-date="2026-10-18" data-count="12" transform="translate(-0.00 3.882)">
 <title>2026-10-18: 12 contributions</title>
 <path fill="#006d32" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -1109,7 +1065,7 @@
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.529 L1.7 2.529 Z"/>
 </g>
 </g>
-<g transform="translate(42.50 25)">
+<g transform="translate(40.80 24)">
 <g data-date="2026-10-25" data-count="3" transform="translate(-0.00 5.471)">
 <title>2026-10-25: 3 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -1153,7 +1109,7 @@
 <path fill="#26a641" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 4.000 L1.7 5.000 Z"/>
 </g>
 </g>
-<g transform="translate(44.20 26)">
+<g transform="translate(42.50 25)">
 <g data-date="2026-11-01" data-count="0" transform="translate(-0.00 6.000)">
 <title>2026-11-01: 0 contributions</title>
 <path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
@@ -1184,11 +1140,17 @@
 <path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 3.059 L0 2.059 Z"/>
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.059 L1.7 3.059 Z"/>
 </g>
+<g data-date="2026-11-06" data-count="12" transform="translate(-8.50 8.882)">
+<title>2026-11-06: 12 contributions</title>
+<path fill="#006d32" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
+<path fill="#006d32" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 4.118 L0 3.118 Z"/>
+<path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 3.118 L1.7 4.118 Z"/>
+</g>
 </g>
 </g>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#f0f6fc">
-<text x="16" y="238" font-size="12"><tspan font-weight="600">1,008</tspan> 次贡献</text>
-<text x="105" y="238" font-size="12"><tspan font-weight="600">133</tspan> 活跃日</text>
+<text x="16" y="238" font-size="12"><tspan font-weight="600">1,016</tspan> 次贡献</text>
+<text x="105" y="238" font-size="12"><tspan font-weight="600">131</tspan> 活跃日</text>
 <text x="190" y="238" font-size="12"><tspan font-weight="600">34</tspan> 单日最高</text>
 <text x="16" y="264" font-size="11" fill="#9198a1">柱高对应每日贡献数</text>
 <text x="170" y="264" font-size="11" fill="#9198a1">少</text>
