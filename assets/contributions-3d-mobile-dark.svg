@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="540" viewBox="0 0 280 270" role="img" aria-labelledby="calendar-title calendar-description">
 <title id="calendar-title">Haven-mao 的近半年三维贡献日历</title>
-<desc id="calendar-description">2026-05-17 至 2026-11-17，1086 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
-<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-05-17&quot;, &quot;to&quot;: &quot;2026-11-17&quot;, &quot;days&quot;: 185, &quot;contributions&quot;: 1086, &quot;active_days&quot;: 140, &quot;max_in_a_day&quot;: 34}</metadata>
+<desc id="calendar-description">2026-05-17 至 2026-11-18，1118 次贡献。每根柱子表示一天，柱高与贡献数成正比。</desc>
+<metadata>{&quot;user&quot;: &quot;Haven-mao&quot;, &quot;source&quot;: &quot;https://github.com/users/Haven-mao/contributions&quot;, &quot;from&quot;: &quot;2026-05-17&quot;, &quot;to&quot;: &quot;2026-11-18&quot;, &quot;days&quot;: 186, &quot;contributions&quot;: 1118, &quot;active_days&quot;: 142, &quot;max_in_a_day&quot;: 34}</metadata>
 <rect width="280" height="270" fill="#0d1117"/>
 <defs><filter id="left-shade"><feComponentTransfer><feFuncR type="linear" slope="0.6"/><feFuncG type="linear" slope="0.6"/><feFuncB type="linear" slope="0.6"/></feComponentTransfer></filter>
 <filter id="right-shade"><feComponentTransfer><feFuncR type="linear" slope="0.2"/><feFuncG type="linear" slope="0.2"/><feFuncB type="linear" slope="0.2"/></feComponentTransfer></filter></defs>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#f0f6fc">
 <text x="16" y="20" font-size="14" font-weight="600">Haven-mao</text>
-<text x="16" y="40" font-size="12" fill="#9198a1">2026-05-17 至 2026-11-17</text>
+<text x="16" y="40" font-size="12" fill="#9198a1">2026-05-17 至 2026-11-18</text>
 </g><g transform="translate(18 62) scale(3.8) translate(12 0)">
 <g transform="translate(0.00 0)">
 <g data-date="2026-05-17" data-count="0" transform="translate(-0.00 6.000)">
@@ -1122,11 +1122,11 @@
 <path fill="#006d32" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 4.118 L0 3.118 Z"/>
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 3.118 L1.7 4.118 Z"/>
 </g>
-<g data-date="2026-11-10" data-count="22" transform="translate(-3.40 4.118)">
-<title>2026-11-10: 22 contributions</title>
+<g data-date="2026-11-10" data-count="23" transform="translate(-3.40 3.941)">
+<title>2026-11-10: 23 contributions</title>
 <path fill="#39d353" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#39d353" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 5.882 L0 4.882 Z"/>
-<path fill="#39d353" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 4.882 L1.7 5.882 Z"/>
+<path fill="#39d353" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 6.059 L0 5.059 Z"/>
+<path fill="#39d353" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 5.059 L1.7 6.059 Z"/>
 </g>
 <g data-date="2026-11-11" data-count="7" transform="translate(-5.10 7.765)">
 <title>2026-11-11: 7 contributions</title>
@@ -1134,23 +1134,23 @@
 <path fill="#006d32" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 3.235 L0 2.235 Z"/>
 <path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.235 L1.7 3.235 Z"/>
 </g>
-<g data-date="2026-11-12" data-count="12" transform="translate(-6.80 7.882)">
-<title>2026-11-12: 12 contributions</title>
+<g data-date="2026-11-12" data-count="14" transform="translate(-6.80 7.529)">
+<title>2026-11-12: 14 contributions</title>
+<path fill="#26a641" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
+<path fill="#26a641" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 4.471 L0 3.471 Z"/>
+<path fill="#26a641" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 3.471 L1.7 4.471 Z"/>
+</g>
+<g data-date="2026-11-13" data-count="8" transform="translate(-8.50 9.588)">
+<title>2026-11-13: 8 contributions</title>
 <path fill="#006d32" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#006d32" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 4.118 L0 3.118 Z"/>
-<path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 3.118 L1.7 4.118 Z"/>
+<path fill="#006d32" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 3.412 L0 2.412 Z"/>
+<path fill="#006d32" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.412 L1.7 3.412 Z"/>
 </g>
-<g data-date="2026-11-13" data-count="2" transform="translate(-8.50 10.647)">
-<title>2026-11-13: 2 contributions</title>
+<g data-date="2026-11-14" data-count="6" transform="translate(-10.20 10.941)">
+<title>2026-11-14: 6 contributions</title>
 <path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.353 L0 1.353 Z"/>
-<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.353 L1.7 2.353 Z"/>
-</g>
-<g data-date="2026-11-14" data-count="4" transform="translate(-10.20 11.294)">
-<title>2026-11-14: 4 contributions</title>
-<path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.706 L0 1.706 Z"/>
-<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.706 L1.7 2.706 Z"/>
+<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 3.059 L0 2.059 Z"/>
+<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 2.059 L1.7 3.059 Z"/>
 </g>
 </g>
 <g transform="translate(44.20 26)">
@@ -1166,17 +1166,23 @@
 <path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.529 L0 1.529 Z"/>
 <path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.529 L1.7 2.529 Z"/>
 </g>
-<g data-date="2026-11-17" data-count="0" transform="translate(-3.40 8.000)">
-<title>2026-11-17: 0 contributions</title>
-<path fill="#161b22" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
-<path fill="#161b22" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.000 L0 1.000 Z"/>
-<path fill="#161b22" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.000 L1.7 2.000 Z"/>
+<g data-date="2026-11-17" data-count="5" transform="translate(-3.40 7.118)">
+<title>2026-11-17: 5 contributions</title>
+<path fill="#0e4429" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
+<path fill="#0e4429" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 2.882 L0 1.882 Z"/>
+<path fill="#0e4429" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 1.882 L1.7 2.882 Z"/>
+</g>
+<g data-date="2026-11-18" data-count="16" transform="translate(-5.10 6.176)">
+<title>2026-11-18: 16 contributions</title>
+<path fill="#26a641" d="M1.7 2 L0 1 L1.7 0 L3.4 1 Z"/>
+<path fill="#26a641" filter="url(#left-shade)" d="M0 1 L1.7 2 L1.7 4.824 L0 3.824 Z"/>
+<path fill="#26a641" filter="url(#right-shade)" d="M1.7 2 L3.4 1 L3.4 3.824 L1.7 4.824 Z"/>
 </g>
 </g>
 </g>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#f0f6fc">
-<text x="16" y="238" font-size="12"><tspan font-weight="600">1,086</tspan> 次贡献</text>
-<text x="105" y="238" font-size="12"><tspan font-weight="600">140</tspan> 活跃日</text>
+<text x="16" y="238" font-size="12"><tspan font-weight="600">1,118</tspan> 次贡献</text>
+<text x="105" y="238" font-size="12"><tspan font-weight="600">142</tspan> 活跃日</text>
 <text x="190" y="238" font-size="12"><tspan font-weight="600">34</tspan> 单日最高</text>
 <text x="16" y="264" font-size="11" fill="#9198a1">柱高对应每日贡献数</text>
 <text x="170" y="264" font-size="11" fill="#9198a1">少</text>
